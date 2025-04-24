@@ -61,3 +61,27 @@ header .color {
     font-weight: 500;
     font-size: 1.6rem;
   } 
+
+  .formulario {
+    background-color: #28A745;
+    padding: 30px;
+    color: #ffffff;
+  }
+
+  .h2 {
+    color: #ffffff;
+    font-weight: 500;
+  }
+
+  #footer {
+    background-color: #ffffff;
+    font-weight: 300;
+    color: #757575;
+    text-align: center;
+    padding: 30px;
+  }
+
+  footer img{
+    width: 30%;
+    padding-bottom: 10px;
+  }
